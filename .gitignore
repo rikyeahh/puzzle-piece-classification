@@ -1,5 +1,5 @@
 *.jpg
-tests/*
+./tests/*
 ./tests
 tests
 
